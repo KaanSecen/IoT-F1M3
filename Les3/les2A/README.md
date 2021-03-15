@@ -1,9 +1,7 @@
 ## Les2A
 
 
-[Live OP MA-CLOUD](https://kaansecen.nl/School/IOT/les2A/testMyApi.html)
-[Live OP MA-CLOUD](https://kaansecen.nl/School/IOT/les2A/testMyApi.html)
-[Live OP MA-CLOUD](https://kaansecen.nl/School/IOT/les2A/testMyApi.html)
+[Live OP MA-CLOUD](http://24114.hosts1.ma-cloud.nl/IoT/les2A/testMyApi.html)
 
 
 

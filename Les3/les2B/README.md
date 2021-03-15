@@ -1,7 +1,5 @@
 ## Les2B
-[Live OP MA-CLOUD](https://kaansecen.nl/School/IOT/les2B/testMyApiAjax.html)
-[Live OP MA-CLOUD](https://kaansecen.nl/School/IOT/les2B/testMyApiAjax.html)
-[Live OP MA-CLOUD](https://kaansecen.nl/School/IOT/les2B/testMyApiAjax.html)
+[Live OP MA-CLOUD](http://24114.hosts1.ma-cloud.nl/IoT/les2B/testMyApiAjax.html) http://24114.hosts1.ma-cloud.nl/IoT/les2B/testMyApiAjax.html
 
 Het HTTP request wordt met Javascript Ajax gedaan ```function makeAjaxCall(url, methodType)``` gedaan, de ingevoerde tekst wordt met JS uit het Input veld gehaald. Het HTML Form heeft geen action meer ```<form class="myForm">```
 
