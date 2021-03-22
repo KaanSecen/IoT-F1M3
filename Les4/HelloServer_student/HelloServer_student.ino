@@ -23,8 +23,8 @@ bool led3Status = false; //toggle led on/off
 // your data
 String studentName = "Kaan Secen student nummer 24114"; // jouw student nummer + naam
 
-const char *ssid = "Medialab";
-const char *password = "Mediacollege";
+const char *ssid = "ziggo-ap-7801945";
+const char *password = "";
 
 void wifiConnect()
 {
