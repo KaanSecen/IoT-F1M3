@@ -27,8 +27,8 @@ ESP8266WebServer server(80); // maak een instantie van de webserver op poort 80
 String studentName = "Kaan Secen student nummer 24114"; // jouw student nummer + naam
 bool led1Status = false; //toggle led on/off
 
-const char* ssid = "ziggo-ap-7801945";
-const char* password = "^aMPAaX%PZ.6%";
+const char* ssid = "Medialab";
+const char* password = "Mediacollege";
 
 uint8_t Led1 = D3; //LED indicator Kaan
 
